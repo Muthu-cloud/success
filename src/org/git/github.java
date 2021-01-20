@@ -5,8 +5,12 @@ public class github {
 		String empName="harish";
 		System.out.println(empName);
 		
+		
+
 	  int a=10;
 	  System.out.println(a);
+	  System.out.println("muthu");
+
 	}
 
 }
